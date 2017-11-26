@@ -2,7 +2,7 @@
 README.md:
 	echo "# Guessing Game\n" > README.md
 	
-	echo "Title of the project is Guessing Game.\n"
+	echo "Title of the project is Guessing Game.\n" >> README.md
 	
 	echo "This README file was created at:" >> README.md
 	date >> README.md
